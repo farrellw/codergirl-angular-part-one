@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'wednesday-evening';
+  welcomeMessage = 'I am an angular expert! By Future Will Farrell';
+  favoriteFruits = [
+    'Blueberry',
+    'Watermelon',
+    'Lemon',
+    'Strawberry',
+    'Kiwi'
+
+  ];
 }
